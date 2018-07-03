@@ -1,3 +1,5 @@
+Haga un fork del repositorio y agregue comandos &uuacute;tiles para Git, y si tiene tiempo una descripci&oacte;n.
+
 # Git
 
 `git init`
