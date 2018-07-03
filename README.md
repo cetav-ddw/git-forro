@@ -13,3 +13,5 @@ Lista de comandos utiles.
 `git log`
 
 `git add <filepattern>`
+
+Trate de no usar git add .
