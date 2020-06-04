@@ -1,5 +1,3 @@
-Haga un fork del repositorio y agregue comandos &uacute;tiles para Git, y si tiene tiempo una descripci&oacute;n.
-
 # Git
 
 Lista de comandos utiles.
